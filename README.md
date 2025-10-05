@@ -21,3 +21,21 @@ Each detected object is highlighted with a **colored bounding box** and a **conf
 ---
 
 ## 📂 Project Structure
+📁 ObjectRecognition/
+│
+├── models/
+│ ├── MobileNetSSD_deploy.prototxt
+│ ├── MobileNetSSD_deploy.caffemodel
+│
+├── object_detection.py
+└── README.md
+
+
+---
+
+## 🧱 Requirements
+Make sure you have **Python 3.x** installed.  
+Install the required dependencies using pip:
+
+```bash
+pip install opencv-python numpy
