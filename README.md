@@ -5,12 +5,6 @@ It can detect and classify common objects from a webcam feed, displaying boundin
 
 ---
 
-## 📸 Demo
-The model uses your **webcam** to detect objects in real time.  
-Each detected object is highlighted with a **colored bounding box** and a **confidence percentage**.
-
----
-
 ## 🧩 Features
 - 🎥 Real-time object detection using webcam  
 - 🧠 Pre-trained **MobileNetSSD (Caffe)** model  
